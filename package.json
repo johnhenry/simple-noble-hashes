@@ -1,12 +1,9 @@
 {
   "name": "simple-noble-hashes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pure JavaScript ES modules version of @noble/hashes - Audited & minimal 0-dependency JS implementation of SHA, RIPEMD, BLAKE, HMAC, HKDF, PBKDF & Scrypt",
   "files": [
-    "*.js",
-    "*.js.map",
-    "*.d.ts",
-    "*.d.ts.map"
+    "*.js"
   ],
   "scripts": {
     "test": "echo \"Tests removed from pure JS version\""
